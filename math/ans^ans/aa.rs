@@ -2,7 +2,7 @@ use std::io;
 fn main() {
 	let mut x = String::new();
 	let mut it = 1;
-	println!("type in number between zero and one");
+	println!("Type in number NOW");
 	match io::stdin().read_line(&mut x) {
 		Ok(_) => {
 			let mut int = x.trim().parse::<f64>().unwrap();
