@@ -2,12 +2,17 @@ This idea came from me getting bored on a calculator, and typing in "Ans^Ans" wi
 
 God I hate Rust.
 
-Instructions:
+Instructions (.rs):
 
 * Ensure that you have this, as well as the latest version of Rust installed.
 * Open CMD, and type in "rustc [file path]"
 * If all goes well, nothing should appear, and it should just skip a line. Then, type "aa.exe".
 * It will prompt you to type in a number. Do so.
 * Sit back and enjoy.
+
+Instructions (.exe):
+
+* Run the .exe file.
+* Follow from step 4 onwards above.
 
 
